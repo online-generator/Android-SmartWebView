@@ -7,7 +7,7 @@
  * Sponsor the project (https://github.com/sponsors/mgks)
  * Giving right credits to developers encourages them to keep improving their projects :)
 -->
-
+<textarea></textarea>
 <span align="center" style="text-align:center">
 
 <a href="https://github.com/mgks/Android-SmartWebView/"><img src="https://raw.githubusercontent.com/mgks/Android-SmartWebView/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100"></a>
